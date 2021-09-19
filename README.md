@@ -1,5 +1,7 @@
 # React COVID Tracker
  This project is made using React, material-ui and leaflet map.
+ 
+ you can view this project via the link: https://iamjhay.github.io/coronavirus-tracker/
 
 Made with :heart: by John
 
